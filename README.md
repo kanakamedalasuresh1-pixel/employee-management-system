@@ -102,10 +102,25 @@ GET    /employees/salarySort
 
 ![image](https://github.com/username/repo/...png)
 
-![POST](post.png)
-![PUT](put.png)
-![DELETE](delete.png)
-![GET](get.png)
+## API Outputs
+
+### POST
+![POST](Screenshot%202026-04-27%20144350.png)
+
+### PUT
+![PUT](Screenshot%202026-04-27%20174204.png)
+
+### GET
+![GET](Screenshot%202026-04-27%20181133.png)
+
+### PATCH
+![PATCH](Screenshot%202026-04-27%20182458.png)
+
+### DELETE
+![DELETE](Screenshot%202026-04-27%20182952.png)
+
+### SORTING
+![SORT](Screenshot%202026-04-28%20120344.png)
 
 Suresh
 Aspiring Java Developer 
