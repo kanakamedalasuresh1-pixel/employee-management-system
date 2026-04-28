@@ -100,6 +100,18 @@ GET    /employees/salarySort
 
 ---
 
+### GET
+![GET](image-link)
+
+### POST
+![POST](image-link)
+
+### PUT
+![PUT](image-link)
+
+### DELETE
+![DELETE](image-link)
+
 ##  Author
 
 Suresh
