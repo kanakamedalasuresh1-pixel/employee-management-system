@@ -102,7 +102,7 @@ GET    /employees/salarySort
 
 ![image](https://github.com/username/repo/...png)
 
-https://github.com/kanakamedalasuresh1-pixel/employee-management-system/blob/main/Screenshot%202026-04-27%20144350.png?raw=true
+![POST](Screenshot 2026-04-27 144350.png)
 
 Suresh
 Aspiring Java Developer 
