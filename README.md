@@ -101,11 +101,11 @@ GET    /employees/salarySort
 ---
 
 ![image](https://github.com/username/repo/...png)
-Screenshot-GET.png
+
 Screenshot-POST.png
 Screenshot-PUT.png
 Screenshot-DELETE.png
-![GET](Screenshot-GET.png)
+![GET](Screenshot-insert.png)
 
 Suresh
 Aspiring Java Developer 
