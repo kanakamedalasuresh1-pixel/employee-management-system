@@ -102,7 +102,10 @@ GET    /employees/salarySort
 
 ![image](https://github.com/username/repo/...png)
 
-![POST](Screenshot 2026-04-27 144350.png)
+![POST](post.png)
+![PUT](put.png)
+![DELETE](delete.png)
+![GET](get.png)
 
 Suresh
 Aspiring Java Developer 
