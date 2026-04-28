@@ -100,19 +100,10 @@ GET    /employees/salarySort
 
 ---
 
-### GET
-![GET](image-link)
-
-### POST
-![POST](image-link)
-
-### PUT
-![PUT](image-link)
-
-### DELETE
-![DELETE](image-link)
-
-##  Author
+![GET](Screenshot 2026-04-28 120344.png)
+![POST](Screenshot 2026-04-27 144350.png)
+![PUT](Screenshot 2026-04-27 174204.png)
+![DELETE](Screenshot 2026-04-27 181133.png)
 
 Suresh
 Aspiring Java Developer 
